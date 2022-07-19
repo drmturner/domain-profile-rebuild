@@ -1,0 +1,1 @@
+MsgBox "You have completed your end of the rebuild. MSRA in (to monitor everything) and run 'Profile Migration Tool.bat' file to begin the migration process. This program will automatically restart when you exit MSRA.											A copy of all steps taken have been sent to the clipboard. Please paste these into your ticket BEFORE clicking OK."

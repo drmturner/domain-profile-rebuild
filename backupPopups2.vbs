@@ -1,0 +1,1 @@
+X=MsgBox("Save any open work if you have not already done so, then press OK to immediately restart the machine.											When prompted for a green shutdown, please select NO.									When you get to the CTRL + ALT + DEL screen, let the agent know but 										DO NOT LOG IN!!!",0+48,"ALERT!")
